@@ -3876,11 +3876,13 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
+		background: rgba(0, 0, 0, 0.8);
+		background-blend-mode: multiply;
 		background-image: url("images/SIA plane layout-01.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
-		background: rgba(0, 0, 0, 0.7);
+		
 	}
 
 		#intro p {
